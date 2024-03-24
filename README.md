@@ -7,11 +7,11 @@
     <li>Currently working on a few spatial computing applications</li>
     <li>When not deep in tech, I'm doing one or more of the following:
       <ul>
-        <li>Drumming</li>
-        <li>Hiking</li>
-        <li>Mountain biking</li>
-        <li>Wood working</li>
-        <li>Snowboarding/Snowshoeing</li>
+        <li>🥁 Drumming</li>
+        <li>🥾 Hiking</li>
+        <li>🚵🏻 Mountain biking</li>
+        <li>🪚 Wood working</li>
+        <li>🏂 Snowboarding/Snowshoeing</li>
       </ul>
     </li>
   </ul>
