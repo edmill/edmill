@@ -11,7 +11,7 @@
         <li>🥾 Hiking</li>
         <li>🚵🏻 Mountain biking</li>
         <li>🪚 Wood working</li>
-        <li>🏂 Snowboarding/Snowshoeing</li>
+        <li>🤖 Designing</li>
       </ul>
     </li>
   </ul>
