@@ -1,8 +1,9 @@
-<h1 align="left">Howdy ya'll 👋, I'm Ed</h1>
-<h3 align="left">I love designing and developing for all types of modalities and languages, especially in 3D 🧊</h3>
+<h1 align="left">Howdy y'all 👋, I'm Ed</h1>
+<h3 align="left">I love designing and developing for all types of modalities and languages, especially in 3D and most definitely powered by AI. 🧊</h3>
 <hr>
 <section>
-  <h3 align="left">Currently a fulltime designer and part-time ASU GIT student.</h3>
+  <h3 align="left">Currently designing the next $1B business and occasionally I'm an ASU GIT student.<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/11f34001-d96b-41ff-8f3b-8c885d55a3f0" />
+</h3>
   <ul>
     <li>Currently working on a few spatial computing applications</li>
     <li>When not deep in tech, I'm doing one or more of the following:
@@ -10,8 +11,8 @@
         <li>🥁 Drumming</li>
         <li>🥾 Hiking</li>
         <li>🚵🏻 Mountain biking</li>
-        <li>🪚 Wood working</li>
-        <li>🤖 Designing</li>
+        <li>⚙️ 3D printing + wood working</li>
+        <li>🤖 Designing with AI</li>
       </ul>
     </li>
   </ul>
